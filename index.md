@@ -21,8 +21,6 @@ I'm a passionate Data Analytics and Data Science professional skilled in:
 *Jan 2024 – Dec 2027 | Patna, India*  
 Currently pursuing a 4-year B.S. degree with a focus on AI, data structures, and applied machine learning. Achieved a GPA of **9.0**.  
 Completed coursework in advanced algorithms, business analytics, and data visualization.  
-Engaged in hands-on projects, including an **AI healthcare chatbot** that leverages NLP and user-centric design.  
-Active participant in hackathons and tech competitions, fostering real-world problem-solving and innovation.
 
 **Aspire Leaders Program – Aspire Institute (Cambridge, U.S.)**  
 *Apr 2024 – Nov 2024*  
