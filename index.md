@@ -90,7 +90,7 @@ Currently pursuing 4 years B.S. in Computer Science & Data Analytics from **IIT 
 
 ## 📄 Resume
 
-You can [download my resume](./resume.pdf) here.
+You can [download my resume](./resume_soudeep_tikadar.pdf) here.
 
 ---
 
