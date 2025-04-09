@@ -15,7 +15,26 @@ I'm a passionate Data Analytics and Data Science professional skilled in:
 - Data Modeling, A/B Testing, ETL, Web Scraping
 - AWS, Snowflake, Databricks, Clickstream Data
 
-Currently pursuing 4 years B.S. in Computer Science & Data Analytics from **IIT Patna**.
+🎓 **Education:**
+
+**Bachelor of Science in Computer Science & Data Analytics, IIT Patna**  
+*Jan 2024 – Dec 2027 | Patna, India*  
+Currently pursuing a 4-year B.S. degree with a focus on AI, data structures, and applied machine learning. Achieved a GPA of **9.0**.  
+Completed coursework in advanced algorithms, business analytics, and data visualization.  
+Engaged in hands-on projects, including an **AI healthcare chatbot** that leverages NLP and user-centric design.  
+Active participant in hackathons and tech competitions, fostering real-world problem-solving and innovation.
+
+**Aspire Leaders Program – Aspire Institute (Cambridge, U.S.)**  
+*Apr 2024 – Nov 2024*  
+Selected for this **Harvard-backed global leadership program** that nurtures high-potential leaders through training in:
+- Strategic problem-solving  
+- Critical thinking  
+- Social impact  
+- Ethical leadership and global networking  
+Collaborated with peers worldwide, strengthening leadership skills and a commitment to tech-driven positive change.
+
+---
+
 
 ---
 
@@ -45,11 +64,11 @@ Currently pursuing 4 years B.S. in Computer Science & Data Analytics from **IIT 
   *Tools: Python (SciPy, Pandas), Excel*
 
 - **[ETL Automation Pipeline](https://your-link-here.com)**  
-  Built automated pipeline to clean and unify multi-source data.  
+  Built an automated pipeline to clean and unify multi-source data.  
   *Tools: Python, SQL, Jupyter*
 
 - **[Clickstream Analytics](https://your-link-here.com)**  
-  Analyzed user behavior data using Adobe Analytics and Databricks.  
+  Analyzed user behaviour data using Adobe Analytics and Databricks.  
   *Tools: Snowflake, SQL, Databricks*
 
 ---
