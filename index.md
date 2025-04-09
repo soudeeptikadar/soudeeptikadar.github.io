@@ -15,7 +15,7 @@ I'm a passionate Data Analytics and Data Science professional skilled in:
 - Data Modeling, A/B Testing, ETL, Web Scraping
 - AWS, Snowflake, Databricks, Clickstream Data
 
-Currently pursuing B.Sc. in Computer Science & Data Analytics from **IIT Patna**.
+Currently pursuing 4 years B.S. in Computer Science & Data Analytics from **IIT Patna**.
 
 ---
 
@@ -36,19 +36,19 @@ Currently pursuing B.Sc. in Computer Science & Data Analytics from **IIT Patna**
 
 ### 💼 Real-World Projects
 
-- **Sales Dashboard (Power BI)**  
+- **[Sales Dashboard (Power BI)](https://your-link-here.com)**  
   End-to-end sales analytics dashboard for revenue forecasting.  
   *Tools: Power BI, SQL*
 
-- **A/B Testing Optimization**  
+- **[A/B Testing Optimization](https://your-link-here.com)**  
   Conducted A/B tests to boost website conversions using Python.  
   *Tools: Python (SciPy, Pandas), Excel*
 
-- **ETL Automation Pipeline**  
+- **[ETL Automation Pipeline](https://your-link-here.com)**  
   Built automated pipeline to clean and unify multi-source data.  
   *Tools: Python, SQL, Jupyter*
 
-- **Clickstream Analytics**  
+- **[Clickstream Analytics](https://your-link-here.com)**  
   Analyzed user behavior data using Adobe Analytics and Databricks.  
   *Tools: Snowflake, SQL, Databricks*
 
@@ -68,12 +68,21 @@ Currently pursuing B.Sc. in Computer Science & Data Analytics from **IIT Patna**
 
 ## 📜 Certifications
 
-- Google Data Analytics Professional Certificate – Coursera  
-- IBM Data Analyst & Data Science – Coursera  
-- Microsoft Certified: Data Analyst Associate  
-- AWS Cloud & AI Practitioner  
-- freeCodeCamp: Data Analysis with Python  
-- Multiple HackerRank Skill Verifications (Python, SQL)
+- [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- [IBM Data Analyst Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst)  
+- [IBM Data Science Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)  
+- [Microsoft Certified: Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)  
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?pp=cert&c=exam&z=2)  
+- [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/?pp=cert&c=exam&z=2)  
+- [freeCodeCamp: Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)  
+- HackerRank Skill Verifications:  
+  - [Problem Solving – Basic](https://www.hackerrank.com/skills-verification/problem_solving_basic)  
+  - [Problem Solving – Intermediate](https://www.hackerrank.com/skills-verification/problem_solving_intermediate)  
+  - [Python – Basic](https://www.hackerrank.com/skills-verification/python_basic)  
+  - [SQL – Basic](https://www.hackerrank.com/skills-verification/sql_basic)  
+  - [SQL – Intermediate](https://www.hackerrank.com/skills-verification/sql_intermediate)  
+  - [SQL – Advanced](https://www.hackerrank.com/skills-verification/sql_advanced)
+
 
 [View full certification links here](./certifications.html) <!-- Create this later -->
 
