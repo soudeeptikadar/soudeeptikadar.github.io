@@ -1,5 +1,23 @@
+# Remote theme configuration
 remote_theme: pages-themes/slate@v0.2.0
+
+# Required plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Site metadata
 title: Soudeep Tikadar
 description: Data Analytics & Data Science Portfolio
+
+# Optional: Add social links
+github_username: soudeeptikadar
+linkedin_username: soudeeptikadar
+
+# Optional: Set favicon (if you add one)
+# favicon: /assets/favicon.ico
+
+# Markdown engine (default is fine)
+markdown: kramdown
+
+# Optional: Add Google Analytics (replace with your ID)
+# google_analytics: G-XXXXXXXXXX
