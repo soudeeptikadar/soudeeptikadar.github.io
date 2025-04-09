@@ -1,123 +1,97 @@
+# 👋 Hello, I'm Soudeep Tikadar
+
+_Data Analyst & Data Science Enthusiast from IIT Patna_
+
+Welcome to my portfolio website! I use Python, SQL, and BI tools like Power BI and Tableau to analyze, visualize, and solve real-world problems with data.
+
 ---
-layout: default
+
+## 📌 About Me
+
+I'm a passionate Data Analytics and Data Science professional skilled in:
+
+- SQL, Python (Pandas, NumPy, Seaborn)
+- Microsoft Power BI, Tableau, Excel, Google Data Studio
+- Data Modeling, A/B Testing, ETL, Web Scraping
+- AWS, Snowflake, Databricks, Clickstream Data
+
+Currently pursuing B.Sc. in Computer Science & Data Analytics from **IIT Patna**.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🛠 Technical Skills
 
-[Link to another page](./another-page.html).
+| Category              | Tools / Languages                                  |
+|-----------------------|----------------------------------------------------|
+| Programming           | Python, SQL                                        |
+| Libraries             | Pandas, NumPy, Matplotlib, Seaborn                 |
+| BI & Visualization    | Power BI, Tableau, Excel, Google Data Studio       |
+| Data Tools            | Snowflake, Adobe Analytics, Databricks             |
+| Platforms             | Git, JIRA, ETL Tools, Jupyter, VS Code, PyCharm    |
+| Concepts              | Data Modeling, Statistical Analysis, A/B Testing   |
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 📂 Projects
 
-# Header 1
+### 💼 Real-World Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Sales Dashboard (Power BI)**  
+  End-to-end sales analytics dashboard for revenue forecasting.  
+  *Tools: Power BI, SQL*
 
-## Header 2
+- **A/B Testing Optimization**  
+  Conducted A/B tests to boost website conversions using Python.  
+  *Tools: Python (SciPy, Pandas), Excel*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **ETL Automation Pipeline**  
+  Built automated pipeline to clean and unify multi-source data.  
+  *Tools: Python, SQL, Jupyter*
 
-### Header 3
+- **Clickstream Analytics**  
+  Analyzed user behavior data using Adobe Analytics and Databricks.  
+  *Tools: Snowflake, SQL, Databricks*
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 📊 Simulated Projects (by Top Companies)
 
-#### Header 4
+| Company              | Project                             | Link |
+|----------------------|--------------------------------------|------|
+| Tata                 | Data Visualization                   | [View](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) |
+| PwC CH               | Digital Intelligence / Power BI      | [View](https://www.theforage.com/simulations/pwc-ch/digital-intelligence-kmu8) |
+| British Airways      | Data Science                         | [View](https://www.theforage.com/simulations/british-airways/data-science-yqoz) |
+| BCG                  | Data Science & Gen AI                | [View](https://www.theforage.com/simulations/bcg/data-science-ccdz) |
+| Quantium             | Data Analytics                       | [View](https://www.theforage.com/simulations/quantium/data-analytics-rqkb) |
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## 📜 Certifications
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- Google Data Analytics Professional Certificate – Coursera  
+- IBM Data Analyst & Data Science – Coursera  
+- Microsoft Certified: Data Analyst Associate  
+- AWS Cloud & AI Practitioner  
+- freeCodeCamp: Data Analysis with Python  
+- Multiple HackerRank Skill Verifications (Python, SQL)
 
-###### Header 6
+[View full certification links here](./certifications.html) <!-- Create this later -->
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 📄 Resume
 
-* * *
+You can [download my resume](./resume.pdf) here.
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 📬 Contact Me
 
-### And an ordered list:
+- 📧 Email: soudeep.tech@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/soudeeptikadar/)  
+- 💻 [LeetCode](https://leetcode.com/soudeeptikadar/)  
+- 🛠 [GitHub](https://github.com/soudeeptikadar)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+_Thanks for visiting my portfolio!_
